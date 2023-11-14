@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://github.com/GabrielEvancor">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GabrielEvancor&count_private=true&theme=transparent&include_all_commits=true">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielEvancor&layout=compact&theme=transparent"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GabrielEvancor&count_private=true&theme=dracula&include_all_commits=true">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielEvancor&layout=compact&theme=dracula"/>
 </div>
  
