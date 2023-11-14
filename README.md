@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi! Welcome to my Github!
 
-<!--
-**GabrielEvancor/Gabrielevancor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning front-end and data science
+- 💻 I’m a control and automation engineering student
+- 💬 Contact me on email: gabrielevancor@gmail.com
+- 😄 Pronouns: he/him
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/GabrielEvancor">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GabrielEvancor&count_private=true&theme=transparent&include_all_commits=true">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielEvancor&layout=compact&theme=transparent"/>
+</div>
+ 
