@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning front-end and data science
 - 💻 I’m a control and automation engineering student
 - 💬 Contact me on email: gabrielevancor@gmail.com
-- 😄 Pronouns: he/him
 
 <div align="center">
   <a href="https://github.com/GabrielEvancor">
