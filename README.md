@@ -1,6 +1,6 @@
 ## Hi! Welcome to my Github!
 
-- 🌱 I’m currently learning front-end skills
+- 🌱 I’m currently learning back-end skills
 - 💻 I’m a control and automation engineering student
 - 💬 Contact me on email: gabrielevancor@gmail.com
 
